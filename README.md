@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi, I'm Veysel in digital world. Since I know myself, I love to investigate, ask questions of why and how. I live somewhere at the intersection of technology and art with the purpose of developing and producing. I feel at this intersection in my notes (https://veysel.co/notlar/).
+
+I am developing myself in the fields of “mathematics”, which are essential all over life, “software”, which changes our world, and “design”, which is the point where the two merge.
+
+If you want to learn more about my work, you can visit my personal web (https://veysel.co) address.
 
 <!--
 **dijitalveysel/dijitalveysel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
