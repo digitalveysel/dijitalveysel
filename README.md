@@ -1,4 +1,4 @@
-Hi, I'm Veysel in digital world.
+Hi, I'm **Veysel** in digital world.
 
 Since I know myself, I really like to research, ask questions about why and how. I live somewhere at the intersection of technology and design with the goal of developing and producing. I write down what I feel at this intersection at my [notes](https://veysel.co/notlar).
 
