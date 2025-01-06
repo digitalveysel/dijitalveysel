@@ -1,7 +1,5 @@
-Hi, I'm **Veysel** in digital world.
+Hello, I'm Veysel, and I'm thrilled to be in the digital world! I have always loved researching, asking why and how questions. I thrive at the intersection of technology and design. My goal is to produce innovative and effective solutions in every project.
 
-Since I know myself, I really like to research, ask questions about why and how. I live somewhere at the intersection of technology and design with the goal of developing and producing. I write down what I feel at this intersection at my [notes](https://veysel.co/notlar).
+I work in the fields of Software Development, User Experience and Design Systems. I play an active role in every stage of the process by developing user-oriented solutions in software projects. I conduct research to improve the user experience and continuously improve my solutions through analyses and tests. I also design compatible and sustainable interfaces by creating design systems. I aim to achieve innovative and effective results by combining aesthetics and functionality in every project.
 
-I am currently working in the fields of Front-End Development, User Experience and Search Engine Optimization in the web world.
-
-If you want to know more about my work, you can visit my [personal web address](https://veysel.co).
+Thank you for visiting my profile. You can examine my experience and projects in more detail by browsing my profile. You can contact me at hello@veysel.co to get in touch or to talk about projects.
